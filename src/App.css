@@ -1,0 +1,11 @@
+.a4 {
+  width: 210mm;
+  min-height: 297mm;
+  margin: 2rem auto;
+  background: white;
+  /* box-shadow: 0 0 8px rgba(0,0,0,0.15); */
+  padding: 1cm;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
